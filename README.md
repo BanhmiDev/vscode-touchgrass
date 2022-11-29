@@ -10,6 +10,20 @@ Tap on a button to touch grass
 
 > The counter currently resets every new session
 
+## Installation
+
+Install this extension from the [VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=Anteger.vscode-touchgrass).
+
+OR
+
+With VS Code open, search for `vscode-touchgrass` in the extension panel (`Ctrl+Shift+X` on Windows/Linux or `Cmd(⌘)+Shift+X` on MacOS) and click install.
+
+OR
+
+With VS Code open, launch VS Code Quick Open (`Ctrl+P` on Windows/Linux or `Cmd(⌘)+P` on MacOS), paste the following command, and press enter.
+
+`ext install Anteger.vscode-touchgrass`
+
 ## How to touch grass
 
 After installing, open the command palette with `Ctrl+Shift+P` on Windows/Linux or `Cmd(⌘)+Shift+P `on MacOS.
@@ -20,5 +34,3 @@ Run the "Start touching grass" command (vscode-touchgrass.start) to see grass in
 
 Configurable to view grass in the explorer view or in a separate panel via `vscode-touchgrass.position`.
 
-## Notes
-This is work in progress, source code will be published very soon!
