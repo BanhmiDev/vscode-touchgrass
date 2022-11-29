@@ -26,7 +26,7 @@ With VS Code open, launch VS Code Quick Open (`Ctrl+P` on Windows/Linux or `Cmd(
 
 ## How to touch grass
 
-After installing, open the command palette with `Ctrl+Shift+P` on Windows/Linux or `Cmd(⌘)+Shift+P `on MacOS.
+After installing, open the command palette with `Ctrl+Shift+P` on Windows/Linux or `Cmd(⌘)+Shift+P ` on MacOS.
 
 Run the "Start touching grass" command (vscode-touchgrass.start) to see grass in VS Code.
 

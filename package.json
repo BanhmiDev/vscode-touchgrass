@@ -2,7 +2,7 @@
   "name": "vscode-touchgrass",
   "displayName": "vscode-touchgrass",
   "description": "An alternative way for developers to reach their goal in life",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.73.0"
   },
