@@ -92,6 +92,8 @@ textarea::placeholder {
 
 /* Touch grass stuff */
 #touch-grass-container {
+	display: flex;
+	gap: 15px;
 	min-height: 60px;
 	height: 60px;
 	width: 100%;
@@ -102,7 +104,8 @@ textarea::placeholder {
 	display: block !important;
 	margin-bottom: 15px !important;
 	height: 100% !important;
-	width: 100% !important;
+	width: 50% !important;
 	font-size: 2rem !important;
 	font-weight: bold !important;
+	text-align: center !important;
 }

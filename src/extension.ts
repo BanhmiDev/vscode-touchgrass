@@ -127,8 +127,8 @@ class TouchGrassWebViewContainer {
 				<title>Touching Grass</title>
 			</head>
 			<body>
-				<img src="${grassImgSrc}" width="300" />
-				<h1>Touched grass <span id="lines-of-code-counter">0</span>x this session</h1>
+				<img src="${grassImgSrc}" height="100" />
+				<h2>Touched grass <span id="lines-of-code-counter">0</span>x this session</h2>
 				<div id="touch-grass-container">
 					<vscode-button appearance="primary" id="touch-grass-add">Touch Grass</vscode-button><vscode-button appearance="secondary" id="touch-grass-reset">Reset</vscode-button>
 				</div>
