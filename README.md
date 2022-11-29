@@ -8,7 +8,7 @@ An alternative way for developers to reach their goal in life
 
 ## Features
 
-Tap on a button to touch grass
+Tap on the grass to touch it, alternatively tap on the button to semi-touch it
 
 > The counter currently resets every new session
 

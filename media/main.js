@@ -39,6 +39,9 @@
         }
     });
     
+    const touchGrassImg = document.getElementById("touch-grass-img");
+    touchGrassImg.addEventListener("click", handleTouchGrassAdd);
+
     const touchGrassAddButton = document.getElementById("touch-grass-add");
     touchGrassAddButton.addEventListener("click", handleTouchGrassAdd);
     

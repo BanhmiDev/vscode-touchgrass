@@ -91,6 +91,10 @@ textarea::placeholder {
 }
 
 /* Touch grass stuff */
+#touch-grass-img {
+	cursor: pointer;
+}
+
 #touch-grass-container {
 	display: flex;
 	gap: 15px;
