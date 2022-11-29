@@ -4,6 +4,8 @@
 
 An alternative way for developers to reach their goal in life
 
+![Screenshot](https://raw.githubusercontent.com/Anteger/vscode-touchgrass/master/screenshot.png)
+
 ## Features
 
 Tap on a button to touch grass
